@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.example.banking-microservice" target="17" />
+      <module name="com.example.banking-microservice.main" target="17" />
+      <module name="com.example.banking-microservice.test" target="17" />
+      <module name="com.example.demo" target="17" />
+      <module name="com.example.demo.main" target="17" />
+      <module name="com.example.demo.test" target="17" />
+      <module name="demo" target="17" />
+      <module name="demo.main" target="17" />
+      <module name="demo.test" target="17" />
+      <module name="gateway.demo" target="17" />
+      <module name="gateway.demo.main" target="17" />
+      <module name="gateway.demo.test" target="17" />
+      <module name="ms-auth.demo" target="17" />
+      <module name="ms-auth.demo.main" target="17" />
+      <module name="ms-auth.demo.test" target="17" />
+      <module name="ms-transaction.demo" target="17" />
+      <module name="ms-transaction.demo.main" target="17" />
+      <module name="ms-transaction.demo.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="com.example.banking-microservice" options="-parameters" />
+      <module name="com.example.banking-microservice.main" options="-parameters" />
+      <module name="com.example.banking-microservice.test" options="-parameters" />
+      <module name="com.example.demo" options="-parameters" />
+      <module name="com.example.demo.main" options="-parameters" />
+      <module name="com.example.demo.test" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="demo.main" options="-parameters" />
+      <module name="demo.test" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="gateway.demo" options="-parameters" />
+      <module name="gateway.demo.main" options="-parameters" />
+      <module name="gateway.demo.test" options="-parameters" />
+      <module name="gateway.main" options="-parameters" />
+      <module name="gateway.test" options="-parameters" />
+      <module name="ms-auth" options="-parameters" />
+      <module name="ms-auth.demo" options="-parameters" />
+      <module name="ms-auth.demo.main" options="-parameters" />
+      <module name="ms-auth.demo.test" options="-parameters" />
+      <module name="ms-auth.main" options="-parameters" />
+      <module name="ms-auth.test" options="-parameters" />
+      <module name="ms-customer" options="-parameters" />
+      <module name="ms-customer.main" options="-parameters" />
+      <module name="ms-customer.test" options="-parameters" />
+      <module name="ms-event-processor" options="-parameters" />
+      <module name="ms-event-processor.main" options="-parameters" />
+      <module name="ms-event-processor.test" options="-parameters" />
+      <module name="ms-loan-docs" options="-parameters" />
+      <module name="ms-loan-docs.main" options="-parameters" />
+      <module name="ms-loan-docs.test" options="-parameters" />
+      <module name="ms-notification" options="-parameters" />
+      <module name="ms-notification.main" options="-parameters" />
+      <module name="ms-notification.test" options="-parameters" />
+      <module name="ms-transaction" options="-parameters" />
+      <module name="ms-transaction.demo" options="-parameters" />
+      <module name="ms-transaction.demo.main" options="-parameters" />
+      <module name="ms-transaction.demo.test" options="-parameters" />
+      <module name="ms-transaction.main" options="-parameters" />
+      <module name="ms-transaction.test" options="-parameters" />
+    </option>
+  </component>
+</project>
